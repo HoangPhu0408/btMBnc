@@ -33,7 +33,7 @@ class _MainpageState extends State<Mainpage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Provider"),
+        title: const Text("Phạm Hoàng Phú - 21DH114000"),
         actions: [
           InkWell(
             onTap: () {
